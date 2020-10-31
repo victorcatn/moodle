@@ -3252,6 +3252,8 @@
       </PHP_EXTENSION>
       <PHP_EXTENSION name="xml" level="required">
       </PHP_EXTENSION>
+      <PHP_EXTENSION name="filter" level="required">
+      </PHP_EXTENSION>
       <PHP_EXTENSION name="xmlreader" level="required">
       </PHP_EXTENSION>
       <PHP_EXTENSION name="intl" level="required">
